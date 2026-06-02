@@ -16,10 +16,15 @@ The goal is to showcase a **production‑ready MLOps pipeline** where every expe
 
 ## 📂 Structure
 EndToEnd-MLDeployment/
+
 │── src/                  # Python source code (LakeFS + MLflow integration)
+
 │── notebooks/            # Jupyter notebooks for experiments
+
 │── configs/              # Environment.yml and Dockerfile
+
 │── artifacts/            # Saved models, logs, metrics
+
 │── README.md             # Project documentation
 
 
