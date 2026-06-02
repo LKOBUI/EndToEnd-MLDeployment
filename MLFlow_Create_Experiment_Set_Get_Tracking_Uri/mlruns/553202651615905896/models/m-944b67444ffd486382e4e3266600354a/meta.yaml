@@ -1,0 +1,10 @@
+artifact_location: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/553202651615905896/models/m-944b67444ffd486382e4e3266600354a/artifacts
+creation_timestamp: 1780422307912
+experiment_id: '553202651615905896'
+last_updated_timestamp: 1780422319256
+model_id: m-944b67444ffd486382e4e3266600354a
+model_type: null
+name: logistic_model
+source_run_id: 5f906f39303b4a0887edf52a65782425
+status: 2
+status_message: null

@@ -1,0 +1,8 @@
+artifact_location: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/938244738834904022
+creation_time: 1780422298586
+experiment_id: '938244738834904022'
+last_update_time: 1780422298586
+lifecycle_stage: active
+name: GLM
+trace_location: null
+workspace: default

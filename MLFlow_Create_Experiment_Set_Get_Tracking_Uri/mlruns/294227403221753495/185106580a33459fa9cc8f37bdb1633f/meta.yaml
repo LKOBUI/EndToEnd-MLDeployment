@@ -1,0 +1,14 @@
+artifact_uri: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/294227403221753495/185106580a33459fa9cc8f37bdb1633f/artifacts
+end_time: 1780422342427
+entry_point_name: ''
+experiment_id: '294227403221753495'
+lifecycle_stage: active
+run_id: 185106580a33459fa9cc8f37bdb1633f
+run_name: xgboost_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780422338240
+status: 3
+tags: []
+user_id: abhis

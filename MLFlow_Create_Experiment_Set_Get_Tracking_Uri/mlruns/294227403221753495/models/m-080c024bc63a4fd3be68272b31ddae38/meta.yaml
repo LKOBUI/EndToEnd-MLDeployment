@@ -1,0 +1,10 @@
+artifact_location: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/294227403221753495/models/m-080c024bc63a4fd3be68272b31ddae38/artifacts
+creation_timestamp: 1780422338443
+experiment_id: '294227403221753495'
+last_updated_timestamp: 1780422342418
+model_id: m-080c024bc63a4fd3be68272b31ddae38
+model_type: null
+name: xgb_model
+source_run_id: 185106580a33459fa9cc8f37bdb1633f
+status: 2
+status_message: null

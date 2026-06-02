@@ -1,0 +1,14 @@
+artifact_uri: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/938244738834904022/b46d78f729d0474ebc0e7196d8d92ad8/artifacts
+end_time: 1780422298752
+entry_point_name: ''
+experiment_id: '938244738834904022'
+lifecycle_stage: active
+run_id: b46d78f729d0474ebc0e7196d8d92ad8
+run_name: glm_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780422298703
+status: 3
+tags: []
+user_id: abhis

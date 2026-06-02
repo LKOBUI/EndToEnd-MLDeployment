@@ -1,0 +1,10 @@
+artifact_location: file:D:\ML\MLFlow\MLFlow_Create_Experiment_Set_Get_Tracking_Uri\mlruns/367337982348609474/models/m-d8094519221647c28dbe3f0ba10123a8/artifacts
+creation_timestamp: 1780422324621
+experiment_id: '367337982348609474'
+last_updated_timestamp: 1780422333204
+model_id: m-d8094519221647c28dbe3f0ba10123a8
+model_type: null
+name: mlp_model
+source_run_id: b1211c1c98c140e68390a8f3020b5668
+status: 2
+status_message: null
