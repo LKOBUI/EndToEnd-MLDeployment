@@ -4,10 +4,10 @@ Goal: Demonstrate reproducible experiment management and artifact logging
 Run experiments with different models using command-line arguments:
 
 
-python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name GLM --model glm --threshold 0.5
-python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name LOGISTIC --model logistic --C_value 1.0 --l1_ratio 0.7
-python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name MLP --model mlp --hidden_layer 10 --activation relu --solver lbfgs --alpha 0.0001
-python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name XGBOOT --model xgboost --learning_rate 0.001
+- python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name GLM --model glm --threshold 0.5
+- python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name LOGISTIC --model logistic --C_value 1.0 --l1_ratio 0.7
+- python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name MLP --model mlp --hidden_layer 10 --activation relu --solver lbfgs --alpha 0.0001
+- python Create_Experiment_Set_Get_Tracking_Uri.py --experiment_name XGBOOT --model xgboost --learning_rate 0.001
 
 ## Windows PowerShell Cleanup
 
@@ -20,13 +20,18 @@ Remove-Item -Recurse -Force "D:\ML\MLFlow\MLFlow-1\mlruns"
 
 ## Directory structure:
 
-Code
 mlruns/
+
   └── <experiment_id>/
+  
       └── <run_id>/
+	  
           ├── metrics/
+		  
           ├── params/
+		  
           ├── artifacts/
+		  
           └── tags/
 
 ## Experiments
