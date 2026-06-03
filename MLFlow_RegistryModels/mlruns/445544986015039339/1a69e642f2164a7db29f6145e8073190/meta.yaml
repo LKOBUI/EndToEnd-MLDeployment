@@ -1,0 +1,14 @@
+artifact_uri: file:d:\ML\MLFlow\MLFlow-8_RegistryModels\mlruns/445544986015039339/1a69e642f2164a7db29f6145e8073190/artifacts
+end_time: 1780504650994
+entry_point_name: ''
+experiment_id: '445544986015039339'
+lifecycle_stage: active
+run_id: 1a69e642f2164a7db29f6145e8073190
+run_name: Model_runs
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780504642057
+status: 3
+tags: []
+user_id: abhis

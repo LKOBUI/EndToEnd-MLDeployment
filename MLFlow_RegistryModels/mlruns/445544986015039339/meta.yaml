@@ -1,0 +1,8 @@
+artifact_location: file:d:\ML\MLFlow\MLFlow-8_RegistryModels\mlruns/445544986015039339
+creation_time: 1780504334159
+experiment_id: '445544986015039339'
+last_update_time: 1780504334159
+lifecycle_stage: active
+name: mlflow_registery_model
+trace_location: null
+workspace: default

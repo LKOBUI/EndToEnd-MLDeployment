@@ -1,0 +1,16 @@
+creation_timestamp: 1780504351017
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1780504351017
+model_id: m-3d48567585934a17a9ec0ee9f78f78f9
+name: BinaryClassifications
+run_id: 4778230158ad4a05920e8a6c7a9af445
+run_link: null
+source: models:/m-3d48567585934a17a9ec0ee9f78f78f9
+status: READY
+status_message: null
+storage_location: file:d:\ML\MLFlow\MLFlow-8_RegistryModels\mlruns/445544986015039339/models/m-3d48567585934a17a9ec0ee9f78f78f9/artifacts
+user_id: null
+version: 1
+workspace: default

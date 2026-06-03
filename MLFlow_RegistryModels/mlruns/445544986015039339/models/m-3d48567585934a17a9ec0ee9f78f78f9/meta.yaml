@@ -1,0 +1,10 @@
+artifact_location: file:d:\ML\MLFlow\MLFlow-8_RegistryModels\mlruns/445544986015039339/models/m-3d48567585934a17a9ec0ee9f78f78f9/artifacts
+creation_timestamp: 1780504334440
+experiment_id: '445544986015039339'
+last_updated_timestamp: 1780504350924
+model_id: m-3d48567585934a17a9ec0ee9f78f78f9
+model_type: null
+name: Binary_Classifications
+source_run_id: 4778230158ad4a05920e8a6c7a9af445
+status: 2
+status_message: null
